@@ -1,6 +1,6 @@
-<h1> Starbuck Clone </h1>
+<h1> Starbucks Clone </h1>
 
-This Starbuck Clone website is divided into differnt sections.
+This Starbucks Clone website is divided into differnt sections.
 
 <h2> Technologies used </h2>
 
